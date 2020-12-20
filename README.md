@@ -1,5 +1,6 @@
 # Para instalar dependências:
 
+Para instalar de pendências:
 ### `yarn`
 
 Para executar o projeto: 
